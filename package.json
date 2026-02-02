@@ -8,8 +8,5 @@
   },
   "author": "shawn",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "description": ""
 }
